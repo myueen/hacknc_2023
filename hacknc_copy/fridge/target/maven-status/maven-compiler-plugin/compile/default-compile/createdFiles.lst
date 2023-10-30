@@ -1,0 +1,4 @@
+com\example\fridge\FridgeApplication.class
+com\example\fridge\ItemController.class
+com\example\fridge\ItemRepository.class
+com\example\fridge\entity\Item.class
